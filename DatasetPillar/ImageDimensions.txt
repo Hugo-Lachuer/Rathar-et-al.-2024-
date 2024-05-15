@@ -1,0 +1,16 @@
+ 	Label	Pixel	Micro
+1	P-Image 10_mask.tif	1888	66.629
+2	P-Image 11_mask.tif	1888	66.629
+3	P-Image 12_mask.tif	1560	66.453
+4	P-Image 13_mask.tif	1888	66.629
+5	P-Image 14_mask.tif	1888	66.629
+6	P-Image 15_mask.tif	1560	66.453
+7	P-Image 1_mask.tif	1888	66.629
+8	P-Image 2_mask.tif	1888	66.629
+9	P-Image 3_mask.tif	1888	66.629
+10	P-Image 4_mask.tif	1560	66.453
+11	P-Image 5_mask.tif	1560	66.453
+12	P-Image 6_mask.tif	1560	66.453
+13	P-Image 7_mask.tif	1560	66.453
+14	P-Image 8_mask.tif	1560	66.453
+15	P-Image 9_mask.tif	1560	66.453

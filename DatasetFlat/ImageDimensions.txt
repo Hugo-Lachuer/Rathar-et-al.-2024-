@@ -1,0 +1,15 @@
+ 	Label	Pixel	Micro
+1	C-Image 10_mask.tif	1888	66.62860
+2	C-Image 11_mask.tif	1560	66.45322
+3	C-Image 12_mask.tif	1560	66.45322
+4	C-Image 13_mask.tif	1560	66.45322
+5	C-Image 15_mask.tif	1888	66.62860
+6	C-Image 17_mask.tif	1888	66.62860
+7	C-Image 1_mask.tif	1888	66.62860
+8	C-Image 2_mask.tif	1888	66.62860
+9	C-Image 3_mask.tif	1560	66.45322
+10	C-Image 4_mask.tif	1888	66.62860
+11	C-Image 5_mask.tif	1888	66.62860
+12	C-Image 6_mask.tif	1356	66.30208
+13	C-Image 7_mask.tif	1356	66.30208
+14	C-Image 9_mask.tif	1888	66.62860
